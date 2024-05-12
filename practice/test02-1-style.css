@@ -1,0 +1,21 @@
+.style-box{
+    border: 50px solid;
+    width: 200px;
+    padding: 50px;
+}
+
+.borderline-red{
+    border-color: red;
+}
+
+.borderline-green{
+    border-color: green;
+}
+
+.borderline-blue{
+    border-color:blue;
+}
+
+.margin-space{
+    margin-top: 20px;
+}

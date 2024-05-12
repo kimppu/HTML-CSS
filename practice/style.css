@@ -1,0 +1,44 @@
+.name_color{
+    color:darkslateblue;
+    background-color:aliceblue;
+    text-align: center;
+}
+
+.border_line{
+    border: 1px solid blue;
+}
+
+.img-size{
+    width: 200px;
+    height: 300px;
+}
+
+.margin-space{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.padding-space{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.new-style{
+    color:chartreuse;
+}
+
+#new-title{
+    color: darkorange;
+}
+
+p.new-title{
+    color: crimson;
+}
+
+div .new-title{
+    color: darkorchid;
+}
+
+span> p{
+    color:goldenrod;
+}
